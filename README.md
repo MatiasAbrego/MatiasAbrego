@@ -44,23 +44,23 @@ I am a **Computer Science student**
 Here you can find some of the projects I have been developing while learning software development and web technologies.
 
 <a href="https://github.com/MatiasAbrego/django-shop-demo">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=django-shop-demo&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=django-shop-demo&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
 <a href="https://github.com/MatiasAbrego/alquil.ar">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=alquil.ar&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=alquil.ar&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
 <a href="https://github.com/MatiasAbrego/sitios-historicos">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=sitios-historicos&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=sitios-historicos&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
 <a href="https://github.com/MatiasAbrego/iron-manager">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=iron-manager&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=iron-manager&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
 <a href="https://github.com/MatiasAbrego/pixel-positions">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=pixel-positions&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=pixel-positions&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
 
