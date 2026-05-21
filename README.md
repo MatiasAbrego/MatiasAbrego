@@ -63,13 +63,6 @@ Here you can find some of the projects I have been developing while learning sof
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasAbrego&repo=pixel-positions&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasAbrego&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Contact
